@@ -11,8 +11,7 @@ function clickExperienceListener(experienceClassName) {
 
 // Inicializa os listeners de cliques nos botões de experiência profissional
 export function startClickExperienceListeners() {
-    clickExperienceListener("exa")
-    clickExperienceListener("zax")
-    clickExperienceListener("datainfo")
-    clickExperienceListener("trackcash")
+    clickExperienceListener("hyatti")
+    clickExperienceListener("jrcigars")
+    clickExperienceListener("unifor")
 }
