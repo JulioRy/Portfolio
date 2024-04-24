@@ -1,5 +1,5 @@
 <h1 align="center">
-  💻 Portfólio - Christopher Frige
+  💻 Portfólio - Julio Bandeira
 </h1>
 
 
